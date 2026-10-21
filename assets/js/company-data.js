@@ -16,9 +16,9 @@ const COMPANY_DATA = {
   contato: {
     email: "atendimento@contabilacessoriazelia.site",
     emailExibicao: "atendimento@contabilacessoriazelia.site",
-    telefone: "Não informado",
-    telefoneLocal: "Não informado",
-    telefoneLink: ""
+    telefone: "(62) 3336-1327",
+    telefoneLocal: "(62) 3336-1327",
+    telefoneLink: "+556233361327"
   },
   legal: {
     ultimaAtualizacao: "20 de outubro de 2026",
