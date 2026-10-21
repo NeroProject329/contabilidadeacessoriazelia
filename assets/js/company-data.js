@@ -14,8 +14,8 @@ const COMPANY_DATA = {
     completo: "RUA VINTE E DOIS, 45, QD 45 LT 05 SL 01, CENTRO, ALEXÂNIA - GO, CEP 72930-000"
   },
   contato: {
-    email: "",
-    emailExibicao: "Não informado",
+    email: "atendimento@contabilacessoriazelia.site",
+    emailExibicao: "atendimento@contabilacessoriazelia.site",
     telefone: "Não informado",
     telefoneLocal: "Não informado",
     telefoneLink: ""
